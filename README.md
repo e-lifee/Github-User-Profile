@@ -1,6 +1,7 @@
 # InternshipProjects
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src='images/image3.png' height=240 width=550 style="margin: 5px;">
-  <img src='images/image2.png' height=240 width=550 style="margin: 5px;">
-  <img src='images/image.png' height=240 width=550 style="margin: 5px;">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src='images/image4.png' height=300 width=650 style="margin: 5px;">
+  <img src='images/image3.png' height=300 width=650 style="margin: 5px;">
+  <img src='images/image2.png' height=300 width=650 style="margin: 5px;">
+  <img src='images/image.png' height=300 width=650 style="margin: 5px;">
 </div>
